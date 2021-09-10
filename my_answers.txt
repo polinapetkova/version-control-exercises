@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 adding some more
 data in here
 as well 
 locally
+=======
+add few line
+in here
+to see how 
+it works
+>>>>>>> e8291995f18f6654d5abfaf2387a55eb938a8493
